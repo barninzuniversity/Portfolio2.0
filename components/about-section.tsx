@@ -62,8 +62,7 @@ export function AboutSection() {
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl">
               With achievements including a Bronze Medal at the Olympiad de la Francophonie en Mathématiques (OFM 2024),
               Silver Medal at PAMO 2025, and ranking 8th nationally in the IMO Selection Test, I combine rigorous
-              mathematical thinking with modern development practices. I also founded the Pioneer High School Math Club,
-              organizing workshops for 50+ students.
+              mathematical thinking with modern development practices. 
             </p>
           </div>
 
