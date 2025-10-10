@@ -56,7 +56,7 @@ export function AboutSection() {
             <h2 className="text-4xl md:text-5xl font-bold text-balance">About Me</h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl">
               I'm Ibrahim Zaouali, a student at The Pioneer High School of Monastir, Tunisia (Class of 2026). I'm
-              passionate about competitive mathematics and software development, representing Tunisia in international
+              passionate about competitive mathematics and web development, representing Tunisia in international
               competitions while building innovative web applications.
             </p>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed max-w-3xl">
